@@ -1,0 +1,4 @@
+pdfplumber
+jieba
+python-docx
+wordcloud
